@@ -1,0 +1,14 @@
+Used Total: 86.7 MB   Unity: 71.2 MB   Mono: 9.6 MB   GfxDriver: 2.7 MB   Audio: 1.2 MB   Video: 0 B   Profiler: 2.0 MB   
+Reserved Total: 258.7 MB   Unity: 223.9 MB   Mono: 14.8 MB   GfxDriver: 2.7 MB   Audio: 1.2 MB   Video: 0 B   Profiler: 16.0 MB   
+Total System Memory Usage: 1.04 GB   
+
+Textures: 212 / 144.9 MB
+Meshes: 20 / 0.5 MB
+Materials: 22 / 34.0 KB
+AnimationClips: 0 / 0 B
+AudioClips: 0 / 0 B
+Assets: 1147 
+GameObjects in Scene: 7 
+Total Objects in Scene: 128 
+Total Object Count: 1275
+GC Allocations per Frame: 379 / 17.0 KB
